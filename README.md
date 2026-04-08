@@ -71,7 +71,18 @@ The physical manifestation of the USDD system is a reinforced **Strategic ATM To
 
 ### **8️⃣ CONCLUSION**
 The US Digital Dollar proposal by **Kassem Al Abbas** is not merely a currency; it is a shield for the American economy. It combines the freedom of decentralization with the security of sovereign control.
+---
 
+### **Intellectual Property & Strategic Copyright Notice**
+**© 2026 Strategic Framework for US Digital Dollar. All Rights Reserved.**
+
+This framework, including its strategic pillars, economic models, and implementation guidelines, is the exclusive intellectual property of the author. This document is intended for conceptual and academic discussion. 
+
+**Restrictions:**
+* No part of this framework may be reproduced, modified, or distributed for commercial or governmental implementation without express written consent from the owner.
+* Any unauthorized use or claim of authorship over these strategic concepts will be subject to intellectual property legal standards.
+
+**Official Record:** This document is timestamped and logged via GitHub's immutable version control system as of the date of publication.
 ---
 **Copyright © 2026 Kassem Al Abbas. All rights reserved.**
 **Official Repository:** [https://github.com/YourUsername/US-Digital-Dollar-Strategic-Framework-]
